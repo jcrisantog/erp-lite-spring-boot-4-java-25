@@ -1,0 +1,5 @@
+description = 'Domain model and business rules'
+
+dependencies {
+    implementation project(':erp-common')
+}
